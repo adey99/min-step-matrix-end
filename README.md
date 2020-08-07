@@ -8,3 +8,7 @@ Given a 2d-matrix consisting of positive integers i.e arr[i][j] has two fields (
 # Time Complexity
 
 O(n^2)
+
+# Output
+
+![alt tag](https://github.com/adey99/min-step-matrix-end/blob/master/Sample_output.jpg)
